@@ -79,7 +79,8 @@
 *    **Don’t Let the Brain Fool Yourself**
 *    >在考试过程中要时刻小心，可以多眨眨眼或是晃晃头，用这种方式来提醒自己稍微往**Diffuse Mode**倾斜看看有没有出错。
 # what I have got from learning how to learn
-从本次的课程中，我学到了不同的思维方法和学习以及记忆的技巧，我希望能把这些学习的方法应用到实际的学习和生活中去，同时我也总结了一些在过去犯的学习上的错误。我创建了一个新的GitHub账号，在研究生阶段，我想把我的每一次有价值的学习和code提交到我的GitHub上，以此来记录我的研究生学习生活。
+从本次的课程中，我学到了不同的思维方法和学习以及记忆的技巧，我希望能把这些学习的方法应用到实际的学习和生活中去，同时我也总结了一些在过去犯的学习上的错误。我创建了一个新的GitHub账号，在研究生阶段，我想把我的每一次有价值的学习和code提交到我的GitHub上，以此来记录我的研究生学习生活。  
+这次的课程在bilibili[bilibili的视频](https://www.bilibili.com/video/BV1rx411Z7LV/?spm_id_from=333.337.search-card.all.click&vd_source=f49ab96c2920ffc67b3af916a3b70504)上可以找到对应的视频，有很多和我一样的国内大学生在讨论，收获了很多新的想法。  
 [我的Github](https://github.com/zhangruiouc)。
 
 
