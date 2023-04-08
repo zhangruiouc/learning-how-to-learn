@@ -16,9 +16,9 @@ what I have got from learning how to learn
 在课堂上，老师认为一个良好的**Chunk**应该是只占用很小一部分空间，但是却能激活反复使用的稳固的神经回路，这使得我么能更快地回想曾今学过的内容，也有利于将已经掌握的部分嵌入更大的框架中。
 ### The Way to Enhance Chunk
 1. **Practice and Repetition**
-2. **Divide and Conquer**
+2. **Divide and Conquer**  
 如果一个 Chunk 对你来说太大了，就把它们拆分然后各个击破。老师给了一个练习乐曲的例子。可以将一个乐曲拆分成一个个小段，熟练各小段后合起来演奏。
-3. **Workout Roadmap**
+3. **Workout Roadmap**  
 关注过程而不仅是结果。例如一个计算题，需要我们掌握的更多是推导和理解公式。
 ### Formation of Chunks
 *    把注意力集中在你所面对的信息上。尽量不要让无关的事情占用你的 Working Memory。
@@ -29,13 +29,13 @@ what I have got from learning how to learn
 在复习已经学过的知识时，我们常会不断重复翻看内容或者是做一张思维导图来理清概念间的关系。但研究表明，这些方法都不如**回想（Recall）**。我们可以用以下两种方式实现**Recall**
 *    使用**费曼技巧**。**费曼技巧**指的是用一句话来解释概念，这意味着我们需要从冗长的描述中总结出自己的话来。
 *    尝试在不同的环境下学习。
-###  Illusion of Competence
+###  Illusion of Competence  
 **Illusion of Competence**指的是我们误以为已经掌握和理解了知识。但实际上这是一种错觉，是否真正的理解可以用阶段性的自我测试来检验。这个学习方式让我回想起我在考研数学时遇到的问题，在看完视频讲解或者翻看答案后我以为自己已经掌握了这部分知识，然而实际当我再次遇到类似的问题，居然犯下了重复的错误。我发现我犯的错误总是类似的，就是因为我没有进行及时的自我测试，错估了自己的能力。
-### Transfer
+### Transfer  
 **Transfer**同上述所讲述的内容一样，同是为**Chunk**服务的。**Chunk**之间是相互联系的，不仅可以掌握旧有的知识，当我们遇到新问题时，我们脑中已有的**Chunk**对应的神经回路就有可能经过排列组合调出正确的答案。
-## Overlearning
+## Overlearning  
 **Overlearning（过度学习）** 指的是在已经掌握所学的内容后继续重复练习的行为。过度的重复是一种时间上的浪费，同时由于重复练习已经掌握的内容比较容易，它让我们产生**Illusion of Competence**这样的错觉。正确的做法是在困难和重要的内容上适当地过度学习。
-## Einstellung
+## Einstellung  
 **Einstellung（定势）** 指的是原有的思维阻碍了我们产生更新的更好的想法。我的理解是
 
 
