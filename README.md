@@ -1,7 +1,7 @@
 # learning-how-to-learn
 ## Thinking Modes
 我们常见的思考方式可以分为两种，即**Focused Mode**和**Diffuse Mode**。前者指的是我们专注于某件事的思维方式，而后者指的是我们在放松的条件下思索或者回忆问题。  
-![两种思维模式](https://pic3.zhimg.com/80/v2-705a9b5d2547a9ce4f2c738ba17ceb62_720w.webp)  
+![两种思维模式](https://pic3.zhimg.com/80/v2-705a9b5d2547a9ce4f2c738ba17ceb62_720w.webp) 
 **Focused Mode**适合用于解决已经熟练掌握的内容，而**Diffuse Mode**则对于新事物的学习至关重要。这两种模式也分别对应了两种不同的思维模式：**顺序思考（Sequential Thinking）和整体思考（Holistic Thinking）**。我们需要能够在两种思维模式中切换，比如在遇到困难时可以放松大脑发散地思考问题，当或者灵感时回到手头的工作中，再进行专注的思考。
 ## Memories
 ### Working Memory and Long-term Memory
@@ -14,7 +14,7 @@
 **Pomodoro**是一个定时的提醒器，一般划分20到30分钟的学习区间，在这段时间里我们需要专注地学习和思考。在休息的几分钟里，我们放空大脑，进入**Diffuse Mode**模式来帮助我们理解刚刚学习过的内容。
 ## Chunking
 在刚开始学习一个新概念时，大量的信息涌入，我们的*认知负载（Cognitive Load）* 很重，很难把握全局。大脑需要一个过程来理解和消化这些内容并将它们组合到一起，这个过程就是 **Chunking**。我的理解就是，在学习的过程中，我们的大脑会形成一个个的模块，这些模块一开始很散乱，如何将模块拼接形成一个整体决定我们学习效果的好坏，就像拼拼图一样，将所有的知识串联起来。如果我们只是被动地接收知识而没有把它们**Chunking**起来，这些知识就好比下图中间那块没有锯齿边的拼图块。它无法与其他知识相关联，也就无法为我们所用。  
-![如何理解chunk](https://pic2.zhimg.com/80/v2-6a713e1ac45bdea0071c672406e1a6ad_720w.webp)  
+![如何理解chunk](https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_SzT-x.dSwHQFcA*ccid_NP7H91LA&form=CHROMI&iss=SBIUPLOADGET&selectedindex=0&id=1341635473&ccid=NP7H91LA&exph=252&expw=600&vt=2&sim=11)  
 在课堂上，老师认为一个良好的**Chunk**应该是只占用很小一部分空间，但是却能激活反复使用的稳固的神经回路，这使得我么能更快地回想曾今学过的内容，也有利于将已经掌握的部分嵌入更大的框架中。
 ### The Ways to Enhance Chunk
 1. **Practice and Repetition**
@@ -80,7 +80,7 @@
 *    >在考试过程中要时刻小心，可以多眨眨眼或是晃晃头，用这种方式来提醒自己稍微往**Diffuse Mode**倾斜看看有没有出错。
 # what I have got from learning how to learn
 从本次的课程中，我学到了不同的思维方法和学习以及记忆的技巧，我希望能把这些学习的方法应用到实际的学习和生活中去，同时我也总结了一些在过去犯的学习上的错误。我创建了一个新的GitHub账号，在研究生阶段，我想把我的每一次有价值的学习和code提交到我的GitHub上，以此来记录我的研究生学习生活。  
-这次的课程在bilibili[bilibili的视频](https://www.bilibili.com/video/BV1rx411Z7LV/?spm_id_from=333.337.search-card.all.click&vd_source=f49ab96c2920ffc67b3af916a3b70504)上可以找到对应的视频，有很多和我一样的国内大学生在讨论，收获了很多新的想法。  
+这次的课程在bilibili[Learning how to learn](https://www.bilibili.com/video/BV1rx411Z7LV/?spm_id_from=333.337.search-card.all.click&vd_source=f49ab96c2920ffc67b3af916a3b70504)上可以找到对应的视频，有很多和我一样的国内大学生在讨论，收获了很多新的想法。  
 [我的Github](https://github.com/zhangruiouc)。
 
 
